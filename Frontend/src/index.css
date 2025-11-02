@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import "tailwindcss";
+
+/* Font Classes */
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+.open-sans {
+  font-family: "Open Sans", sans-serif;
+}
+.inter {
+  font-family: "Inter", sans-serif;
+}
+.playfair {
+  font-family: "Playfair Display", serif;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+h1,
+h2,
+p {
+  font-family: "Playfair Display", serif;
+}
+h3 {
+  font-family: "Inter", sans-serif;
+}
+
+input,
+select,
+option {
+  font-family: "Playfair Display", serif;
+}
+button {
+  font-family: "Playfair Display", serif;
+}
+th ,span{
+  font-family: "Playfair Display", serif;
+}
+td {
+  font-family: "Inter", sans-serif;
+}
